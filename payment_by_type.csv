@@ -1,0 +1,8 @@
+"Payment Format","total_transactions","flagged_transactions","avg_amount","flag_rate_pct"
+ACH,600797,4483,9497986.77,0.75
+Cheque,1864331,324,6103601.28,0.02
+Credit Card,1323324,206,86783.37,0.02
+Cash,490891,108,7359934.25,0.02
+Bitcoin,146091,56,30.83,0.04
+Wire,171855,0,4876399.53,0.0
+Reinvestment,481056,0,2595009.06,0.0

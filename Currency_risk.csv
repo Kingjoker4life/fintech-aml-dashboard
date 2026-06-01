@@ -1,0 +1,31 @@
+"Payment Currency","Receiving Currency","transactions","flagged","avg_amount","flag_rate_pct"
+US Dollar,US Dollar,1856392,1912,314317.23,0.1
+Euro,Euro,1153708,1372,258329.23,0.12
+Saudi Riyal,Saudi Riyal,88891,374,716459.63,0.42
+Swiss Franc,Swiss Franc,234429,193,321971.54,0.08
+Yuan,Yuan,203522,184,1677142.09,0.09
+Rupee,Rupee,189006,167,37039435.41,0.09
+Yen,Yen,153603,155,41207673.33,0.1
+Ruble,Ruble,154852,133,43274545.02,0.09
+UK Pound,UK Pound,177939,132,251354.07,0.07
+Canadian Dollar,Canadian Dollar,139065,128,578666.34,0.09
+Australian Dollar,Australian Dollar,136478,127,343534.28,0.09
+Shekel,Shekel,192066,95,986008.52,0.05
+Mexican Peso,Mexican Peso,109656,92,5983152.56,0.08
+Brazil Real,Brazil Real,70555,57,4392753.16,0.08
+Bitcoin,Bitcoin,146013,56,20.82,0.04
+Australian Dollar,Bitcoin,9,0,1956.43,0.0
+Australian Dollar,Canadian Dollar,3,0,4652123.62,0.0
+Australian Dollar,Euro,59,0,7510.26,0.0
+Australian Dollar,Mexican Peso,3,0,6912.38,0.0
+Australian Dollar,Rupee,5,0,8778.18,0.0
+Australian Dollar,Saudi Riyal,6,0,4202.11,0.0
+Australian Dollar,Shekel,24,0,2569.54,0.0
+Australian Dollar,Swiss Franc,18,0,8816.0,0.0
+Australian Dollar,UK Pound,8,0,6072.56,0.0
+Australian Dollar,US Dollar,147,0,15999.67,0.0
+Australian Dollar,Yen,5,0,278734.85,0.0
+Australian Dollar,Yuan,4,0,21.18,0.0
+Bitcoin,Australian Dollar,1,0,0.0,0.0
+Bitcoin,Canadian Dollar,1,0,0.02,0.0
+Bitcoin,Euro,20,0,0.02,0.0

@@ -1,0 +1,4 @@
+"transaction_size","total","flagged","flag_rate_pct","avg_amount"
+Large (10k+),1370620,2407,0.18,16703386.43
+Medium (1k-10k),1396292,2125,0.15,3629.71
+Small (under 1k),2311433,645,0.03,251.89
